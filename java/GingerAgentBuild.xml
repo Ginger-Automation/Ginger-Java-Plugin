@@ -8,7 +8,7 @@
                 <attribute name="Main-Class" value="com.amdocs.ginger.GingerAgent"/>
                 <attribute name="Class-Path" value="."/>
             </manifest>
-            <fileset dir="/bin"/>
+            <fileset dir="c:/Ginger-Java-Plugin/java"/>
           
         </jar>
     </target>
